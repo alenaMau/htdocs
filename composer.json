@@ -1,12 +1,12 @@
 {
-    "name": "jurapro/pop-it-mvc",
+    "name": "alenamau/pop-it-mvc",
     "description": "Simple mvc framework",
     "type": "project",
     "license": "MIT",
     "authors": [
         {
-            "name": "jurapro",
-            "email": "jurapro@yandex.ru"
+            "name": "alenamau",
+            "email": "alenamau3486@gmail.com"
         }
     ],
     "minimum-stability": "dev",
