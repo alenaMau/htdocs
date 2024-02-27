@@ -13,6 +13,10 @@ class Site
        return (new View())->render('site.post', ['posts' => $posts]);
    }
 
+   public function main(): string 
+   {
+    die("Проба");
+   }
    public function hello(): string
    {
        return new View('site.hello', ['message' => 'hello working']);
